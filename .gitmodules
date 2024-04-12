@@ -1,0 +1,6 @@
+[submodule "quizService"]
+	path = quizService
+	url = https://github.com/pandiaaman/quizService.git
+[submodule "questionService"]
+	path = questionService
+	url = https://github.com/pandiaaman/questionService.git

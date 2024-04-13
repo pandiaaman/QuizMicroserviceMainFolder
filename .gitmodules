@@ -4,3 +4,6 @@
 [submodule "questionService"]
 	path = questionService
 	url = https://github.com/pandiaaman/questionService.git
+[submodule "quizServiceRegistry"]
+	path = quizServiceRegistry
+	url = https://github.com/pandiaaman/quizServiceRegistry.git
